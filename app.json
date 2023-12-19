@@ -5,8 +5,8 @@
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
-  "env": {
-    "BOT_NUMBER": {
+  "env": { "923361501800",
+    "BOT_NUMBER": { "923361501800",
       "description": "923361501800",
       "required": true
     },
